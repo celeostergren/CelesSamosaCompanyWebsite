@@ -6,7 +6,16 @@ h1 {
     text-decoration: underline;
     text-transform: uppercase;
     font-weight: bold;
+    height: 50px;
+    width: 400px;
+    border: none;
+    border-radius: 2px;
 }
 p {
-        color: blue;
+        color: black;
+        line-height: 30px;
+        font-size: 18px;
+        text-indent: initial;
+        font-style: inherit;
+
 }
