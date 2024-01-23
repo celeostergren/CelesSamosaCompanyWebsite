@@ -1,0 +1,12 @@
+h1 {
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    background-color: purple;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+p {
+        color: blue;
+}
